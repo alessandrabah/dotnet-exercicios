@@ -1,0 +1,16 @@
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\bin\Debug\net5.0\exercicio-ale.exe
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\bin\Debug\net5.0\exercicio-ale.deps.json
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\bin\Debug\net5.0\exercicio-ale.runtimeconfig.json
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\bin\Debug\net5.0\exercicio-ale.runtimeconfig.dev.json
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\bin\Debug\net5.0\exercicio-ale.dll
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\bin\Debug\net5.0\ref\exercicio-ale.dll
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\bin\Debug\net5.0\exercicio-ale.pdb
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\obj\Debug\net5.0\exercicio-ale.csproj.AssemblyReference.cache
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\obj\Debug\net5.0\exercicio-ale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\obj\Debug\net5.0\exercicio-ale.AssemblyInfoInputs.cache
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\obj\Debug\net5.0\exercicio-ale.AssemblyInfo.cs
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\obj\Debug\net5.0\exercicio-ale.csproj.CoreCompileInputs.cache
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\obj\Debug\net5.0\exercicio-ale.dll
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\obj\Debug\net5.0\ref\exercicio-ale.dll
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\obj\Debug\net5.0\exercicio-ale.pdb
+C:\Alessandra\Estudos\TI\exercicios-criados\dotnet-exercicio1\exercicio-ale\obj\Debug\net5.0\exercicio-ale.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\bin\Debug\net5.0\.net1.exe
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\bin\Debug\net5.0\.net1.deps.json
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\bin\Debug\net5.0\.net1.runtimeconfig.json
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\bin\Debug\net5.0\.net1.runtimeconfig.dev.json
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\bin\Debug\net5.0\.net1.dll
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\bin\Debug\net5.0\ref\.net1.dll
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\bin\Debug\net5.0\.net1.pdb
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\obj\Debug\net5.0\.net1.csproj.AssemblyReference.cache
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\obj\Debug\net5.0\.net1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\obj\Debug\net5.0\.net1.AssemblyInfoInputs.cache
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\obj\Debug\net5.0\.net1.AssemblyInfo.cs
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\obj\Debug\net5.0\.net1.csproj.CoreCompileInputs.cache
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\obj\Debug\net5.0\.net1.dll
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\obj\Debug\net5.0\ref\.net1.dll
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\obj\Debug\net5.0\.net1.pdb
+C:\Alessandra\Estudos\TI\exercicios-criados\.net1\obj\Debug\net5.0\.net1.genruntimeconfig.cache
